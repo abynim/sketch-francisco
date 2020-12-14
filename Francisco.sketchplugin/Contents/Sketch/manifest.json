@@ -1,0 +1,42 @@
+{
+  "commands" : [
+      {
+          "script" : "script.js",
+          "handler" : "go",
+          "shortcut" : "control shift f",
+          "name" : "Insert SF Symbol",
+          "identifier" : "insertSymbol"
+      },
+      {
+          "script" : "script.js",
+          "handler" : "getHelp",
+          "name" : "Help",
+          "identifier" : "getHelp"
+      },
+      {
+          "script": "script.js",
+          "handlers": {
+              "actions": {
+                  "Startup" : "go"
+              }
+          }
+      }
+  ],
+  "menu": {
+      "title" : "Francisco",
+      "items": [
+          "insertSymbol",
+          "-",
+          "getHelp"
+      ]
+  },
+  "identifier" : "com.abynim.Francisco",
+  "version" : "1.0",
+  "icon" : "icon.tiff",
+  "description" : "Search and insert SF Symbols into Sketch",
+  "author" : "Aby Nimbalkar",
+  "name" : "Francisco",
+  "disableCocoaScriptPreprocessor" : true,
+  "homepage" : "https://github.com/abynim/sketch-francisco",
+  "appcast" : "https://raw.githubusercontent.com/abynim/sketch-francisco/master/.appcast.xml"
+}
