@@ -11,7 +11,7 @@ Francisco makes it effortless to search and add SF Symbols into your Sketch docu
 ## Requirements
 
 - [Sketch 70.0](https://sketch.com) or above.
-- macOS 11.0 Big Sur or above.
+- macOS 10.15 Catalina or above.
 - [SF Symbols 2](https://developer.apple.com/sf-symbols/) or above
 
 ---
