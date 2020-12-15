@@ -6,19 +6,23 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		BH6z7sFVSLPLV9E6ZaagVwEgKkc=
+		LMaCKUWxJ1sff8SDMDiDXqJOOmw=
 		</data>
 		<key>Resources/FranciscoCollectionViewItem.nib</key>
 		<data>
 		8bvJ7giuWeQrxvz4YE/ID+xgN0I=
 		</data>
-		<key>Resources/FranciscoListViewController.nib</key>
+		<key>Resources/FranciscoListViewController.nib/keyedobjects-101500.nib</key>
 		<data>
-		+lS87cW3XAfrFk6+3OELDF9umyg=
+		nkL897hh4W0AaXLUFmzOvMry7PM=
+		</data>
+		<key>Resources/FranciscoListViewController.nib/keyedobjects-110000.nib</key>
+		<data>
+		wdC2IdzAGrYfIev1uD5hzc2MTnk=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		b25PKiJ6Otb4Zi8baYFebhaaGNY=
+		6gFrm0TmDNxSF9kbsournl8KUjs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -27,7 +31,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			duO3k/z2h3IJXRtgYpg4W+R+cK5ktQ+4SBHHm+Ubg84=
+			A9IJ1nHpRhY+ZwGdR12ei5h5mCao7/ZvBfYQ02DKNXs=
 			</data>
 		</dict>
 		<key>Resources/FranciscoCollectionViewItem.nib</key>
@@ -37,18 +41,25 @@
 			Rz9DMPV8D9njK/gryZlmdfGb/SqDdm3P8G2vuIAlxcE=
 			</data>
 		</dict>
-		<key>Resources/FranciscoListViewController.nib</key>
+		<key>Resources/FranciscoListViewController.nib/keyedobjects-101500.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CyZBlZACRroSVqZ7ca8OJIBRPpTmlNmgGc6CElly7sA=
+			kCMS6KHF1BHbDKWfWNRpUt73Z7KgT4VQJ42h5NwQjWg=
+			</data>
+		</dict>
+		<key>Resources/FranciscoListViewController.nib/keyedobjects-110000.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			B80qF52Zu6HTrirelLwvmIz42+ExAqf4tXVad7JEwWE=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6Md+6WbVl8aimr9kQuqSnf2Gim5rZjI2L9FN2gnBn8s=
+			6PKE3seSjMwr0gtqxdo/6uoOilC6uZhM6p5w/xhfdg0=
 			</data>
 		</dict>
 	</dict>

@@ -48,6 +48,12 @@ Sometimes you may also want to add SF Symbols to names of layers or pages. Doubl
 
 ![Layer Names Preview](img/layer-names@2x.png?raw=true)
 
+## No Selection
+
+You can also search for SF Symbols when you're not editing a text field, but the selected symbol will be copied to your clipboard instead.
+
+![No Selection Preview](img/no-selection@2x.png?raw=true)
+
 ---
 
 ## Limitations
